@@ -7,12 +7,13 @@ val hassan = developer {
     }
     professional {
         company = "Egyfy"
-        specialization = listOf("Compose Multiplatform", "Ktor", "High-Performance SaaS")
+        specialization = listOf("Compose Multiplatform", "Ktor",Elixir (BEAM VM + OTP) ,"High-Performance SaaS")
     }
     connect {
         x = "@Hasan_Maghraby"
         facebook = "fb.com/hassan.mohamed.787997"
         email = "hasanmo3080vr@gmail.com"
+        linkedin = "https://www.linkedin.com/in/hassan-mohamed-81a187289"
     }
 }
 ```
