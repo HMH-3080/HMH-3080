@@ -7,7 +7,7 @@ val hassan = developer {
     }
     professional {
         company = "Egyfy"
-        specialization = listOf("Compose Multiplatform", "Ktor",Elixir (BEAM VM + OTP) ,"High-Performance SaaS")
+        specialization = listOf("Compose Multiplatform", "Ktor","Elixir" ,"RUST" ,"High-Performance SaaS")
     }
     connect {
         x = "@Hasan_Maghraby"
