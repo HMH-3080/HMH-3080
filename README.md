@@ -7,9 +7,10 @@ val hassan = developer {
     }
     professional {
         company = "Egyfy"
-        specialization = listOf("Compose Multiplatform", "Ktor","Elixir" ,"RUST" ,"High-Performance SaaS")
+        specialization("Compose Multiplatform", "Ktor", "Elixir", "Crystal", "Rust", "High-Performance SaaS")
     }
     connect {
+        github = "https://github.com/HMH-3080"
         x = "@Hasan_Maghraby"
         facebook = "fb.com/hassan.mohamed.787997"
         email = "hasanmo3080vr@gmail.com"
