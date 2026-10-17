@@ -11,7 +11,7 @@ val hassan = developer {
     }
     connect {
         github = "https://github.com/HMH-3080"
-        x = "@Hasan_Maghraby"
+        x = "@mohamed_ha31364"
         facebook = "fb.com/hassan.mohamed.787997"
         email = "hasanmo3080vr@gmail.com"
         linkedin = "https://www.linkedin.com/in/hassan-mohamed-81a187289"
