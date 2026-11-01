@@ -32,8 +32,25 @@ val hassan = developer {
 ### Databases
 <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" alt="MySQL"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=flat-square" alt="SQLite"> <img src="https://img.shields.io/badge/Turso-5E5CDE?logo=turso&logoColor=white&style=flat-square" alt="Turso"> <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square" alt="Redis"> <img src="https://img.shields.io/badge/Valkey-3E7DDD?logo=valkey&logoColor=white&style=flat-square" alt="Valkey">
 
-### Infra
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square" alt="Kubernetes">
+## Infrastructure & DevOps
+
+**Operating Systems**
+Linux · Ubuntu
+
+**Containerization & Deployment**
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker"> <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker Compose"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/systemd-black?logo=systemd&logoColor=white&style=flat-square" alt="systemd">
+
+**Web Infrastructure**
+Nginx · TCP/IP · DNS · TLS/SSL
+
+**Automation & CI/CD**
+<img src="https://img.shields.io/badge/GitHub%20Actions-181717?logo=githubactions&logoColor=white&style=flat-square" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Shell-4EAA51?logo=gnu-bash&logoColor=white&style=flat-square" alt="Shell">
+
+**Monitoring & Observability**
+<img src="https://img.shields.io/badge/Prometheus-C728E9?logo=prometheus&logoColor=white&style=flat-square" alt="Prometheus"> <img src="https://img.shields.io/badge/Grafana-F4680D?logo=grafana&logoColor=white&style=flat-square" alt="Grafana">
+
+**Cloud & Edge**
+Cloudflare
 
 ## Stats
 
