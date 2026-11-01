@@ -12,26 +12,6 @@
 ╰──────────────────────────────────────────────╯
 ```
 
-```kotlin
-val hassan = developer {
-    identity {
-        name = "Hassan Mohamed"
-        location = "Cairo, Egypt"
-        title = "Full-Stack Developer & Digital Solutions Engineer"
-    }
-    professional {
-        company = "Egyfy"
-        focus = "High-Performance SaaS & Systems"
-        claim = "Creator of kpm · Marsad · Altair"
-    }
-    connect {
-        github = "https://github.com/HMH-3080"
-        x = "@mohamed_ha31364"
-        linkedin = "linkedin.com/in/hassan-mohamed-81a187289"
-        email = "hasanmo3080vr@gmail.com"
-    }
-}
-```
 
 ## What I work with
 
