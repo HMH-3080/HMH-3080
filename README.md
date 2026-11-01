@@ -37,10 +37,8 @@ val hassan = developer {
 
 ## Stats
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=HMH-3080&theme=tokyonight&no-frame=true&column=7&margin-w=10)
-
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=HMH-3080&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" height="160"> &nbsp;&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HMH-3080&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="langs" height="160">
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=HMH-3080&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" height="160"> &nbsp;&nbsp; <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=HMH-3080&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="langs" height="160">
 </div>
 
 <img src="https://streak-stats.demolab.com?user=HMH-3080&theme=tokyonight&hide_border=true" alt="streak">
