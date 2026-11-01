@@ -3,6 +3,15 @@
 <h1 align="left">Hassan Mohamed</h1>
 <p align="left">Systems Builder — Cairo, Egypt. Creator of <b>kpm</b>, <b>Marsad</b>, and the <b>Altair</b> web framework. Building high-performance systems and batteries-included tools at Egyfy.</p>
 
+```text
+╭──────────────────────────────────────────────╮
+│  $ whoami                                     │
+│  Hassan Mohamed · Cairo, Egypt                │
+│  $ cat focus                                  │
+│  Elixir · Rust · Crystal · Kotlin · Go        │
+╰──────────────────────────────────────────────╯
+```
+
 ```kotlin
 val hassan = developer {
     identity {
@@ -52,6 +61,26 @@ Linux · Ubuntu
 **Cloud & Edge**
 Cloudflare
 
+## Featured
+
+Creator of, plus what I've been building lately:
+
+<div style="display:flex;flex-wrap:wrap;gap:14px;">
+
+<a href="https://github.com/Arab-Open-Source/Altair" style="text-decoration:none;"><div style="border:1px solid #30363d;border-radius:8px;padding:14px;min-width:220px;"><div style="display:flex;justify-content:space-between;margin-bottom:8px;"><b>Altair</b><span style="font-size:12px;">⭐ 11</span></div><p style="font-size:13px;margin:0 0 10px;">Batteries-included web framework for Crystal</p><span style="font-size:12px;">● Crystal</span></div></a>
+
+<a href="https://github.com/HMH-3080/kpm" style="text-decoration:none;"><div style="border:1px solid #30363d;border-radius:8px;padding:14px;min-width:220px;"><div style="display:flex;justify-content:space-between;margin-bottom:8px;"><b>kpm</b><span style="font-size:12px;">⭐ 3</span></div><p style="font-size:13px;margin:0 0 10px;">TypeScript tooling</p><span style="font-size:12px;">● TypeScript</span></div></a>
+
+<a href="https://github.com/HMH-3080/beam_distributed_systems_demo" style="text-decoration:none;"><div style="border:1px solid #30363d;border-radius:8px;padding:14px;min-width:220px;"><div style="display:flex;justify-content:space-between;margin-bottom:8px;"><b>beam_distributed_systems_demo</b><span style="font-size:12px;">⭐ 2</span></div><p style="font-size:13px;margin:0 0 10px;">Distributed systems on the BEAM</p><span style="font-size:12px;">● Elixir</span></div></a>
+
+<a href="https://github.com/HMH-3080/SQLiteTenancy" style="text-decoration:none;"><div style="border:1px solid #30363d;border-radius:8px;padding:14px;min-width:220px;"><div style="display:flex;justify-content:space-between;margin-bottom:8px;"><b>SQLiteTenancy</b><span style="font-size:12px;">⭐ ·</span></div><p style="font-size:13px;margin:0 0 10px;">Per-tenant SQLite multi-tenant e-commerce platform</p><span style="font-size:12px;">● Rust</span></div></a>
+
+<a href="https://github.com/HMH-3080/kitten-tts-studio" style="text-decoration:none;"><div style="border:1px solid #30363d;border-radius:8px;padding:14px;min-width:220px;"><div style="display:flex;justify-content:space-between;margin-bottom:8px;"><b>kitten-tts-studio</b><span style="font-size:12px;">⭐ 1</span></div><p style="font-size:13px;margin:0 0 10px;">Phoenix LiveView text-to-speech studio</p><span style="font-size:12px;">● Elixir</span></div></a>
+
+<a href="https://github.com/Arab-Open-Source/Marsad" style="text-decoration:none;"><div style="border:1px solid #30363d;border-radius:8px;padding:14px;min-width:220px;"><div style="display:flex;justify-content:space-between;margin-bottom:8px;"><b>Marsad</b><span style="font-size:12px;">⭐ 1</span></div><p style="font-size:13px;margin:0 0 10px;">Self-hosted VPS management platform</p><span style="font-size:12px;">● Elixir</span></div></a>
+
+</div>
+
 ## Stats
 
 <div align="center">
@@ -59,14 +88,6 @@ Cloudflare
 </div>
 
 <img src="https://streak-stats.demolab.com?user=HMH-3080&theme=tokyonight&hide_border=true" alt="streak">
-
-## Featured
-
-Creator of:
-
-- [**kpm**](https://github.com/HMH-3080/kpm) — TypeScript · 3★
-- [**Marsad**](https://github.com/Arab-Open-Source/Marsad) — self-hosted VPS management platform
-- [**Altair**](https://github.com/Arab-Open-Source/Altair) — batteries-included web framework for Crystal
 
 ## Connect
 
