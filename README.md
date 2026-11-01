@@ -41,7 +41,7 @@ Linux · Ubuntu
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker"> <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker Compose"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square" alt="Kubernetes"> <img src="https://img.shields.io/badge/systemd-black?logo=systemd&logoColor=white&style=flat-square" alt="systemd">
 
 **Web Infrastructure**
-Nginx · TCP/IP · DNS · TLS/SSL
+<img src="https://img.shields.io/badge/Nginx-015DA3?logo=nginx&logoColor=white&style=flat-square" alt="Nginx"> · TCP/IP · DNS · TLS/SSL
 
 **Automation & CI/CD**
 <img src="https://img.shields.io/badge/GitHub%20Actions-181717?logo=githubactions&logoColor=white&style=flat-square" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Shell-4EAA51?logo=gnu-bash&logoColor=white&style=flat-square" alt="Shell">
