@@ -13,6 +13,10 @@
   <img src="https://img.shields.io/badge/Crystal-000000?logo=crystal&logoColor=white&style=flat-square" alt="Crystal" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=flat-square" alt="Go" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=flat-square" alt="Java" />
+  <img src="https://img.shields.io/badge/Zig-ECF0F1?logo=zig&logoColor=black&style=flat-square" alt="Zig" />
 </p>
 
 ## About
