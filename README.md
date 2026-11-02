@@ -24,7 +24,7 @@ I design software that balances practicality, performance, and maintainability. 
 - <b>Altair</b> — batteries-included web framework for Crystal
 - <b>kpm</b> — developer tooling and workflow utilities
 - <b>Marsad</b> — systems-oriented tooling and platform work
-- <b>Distributed systems</b> experiments and backend architecture exploration
+- <a href="https://github.com/HMH-3080"><b>GitHub</b></a> — open-source projects, experiments, and backend system work
 
 ## Connect
 
